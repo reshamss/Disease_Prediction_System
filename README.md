@@ -3,7 +3,7 @@
 
 A **Python-based machine learning project** with a **Streamlit web interface** that predicts diseases such as Heart Attack, Asthma, Pneumonia, or No Disease based on user-provided symptoms.
 
----
+--
 
 ## 🛠️ Features
 
@@ -13,7 +13,7 @@ A **Python-based machine learning project** with a **Streamlit web interface** t
 - Interactive **Streamlit UI** with a custom background and styled components.
 - Handles missing or inconsistent data automatically.
 
----
+--
 
 
 
