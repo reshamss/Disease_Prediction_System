@@ -15,6 +15,9 @@ A **Python-based machine learning project** with a **Streamlit web interface** t
 
 --
 
+##How to run
+https://diseasepredictionsystem-2bxtbnaqxpczfd6ituvxxl.streamlit.app/
+
 
 
 
